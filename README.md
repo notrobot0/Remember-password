@@ -9,12 +9,10 @@ python3 main.py >pass.txt
   </code>
 </p>
 In this case, the pass.txt file will contain the following:
-<p>
-  <code>
+<p><code>
 Sправедливость
 sправедливость
 справедливость
 Справедливость
-      </code>
-</p>
+</code></p>
 The same thing can be done with any number of letters!
